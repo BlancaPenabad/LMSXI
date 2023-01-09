@@ -1,0 +1,19 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<viaje>
+    <cliente>
+        <nombre>Blanca</nombre>
+        <apellidos>Penabad Villar</apellidos>
+    </cliente>
+    <f_inicio>14/2/2023</f_inicio>
+    <f_fin>20/2/2023</f_fin>
+    <origen>Madrid</origen>
+    <destinos>
+        <destino nombre_ciudad= "Milán" nombre_hotel="Hilton Milano" n_noches="2"/>
+        <destino nombre_ciudad= "Como" nombre_hotel="Lago di Como" n_noches="2"/>
+        <destino nombre_ciudad= "Roma" nombre_hotel="NH Roma" n_noches="2"/>
+        </destinos>
+    <precio>5.560</precio>
+</viaje>
+
+
+
