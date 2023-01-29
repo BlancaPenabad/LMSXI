@@ -1,0 +1,10 @@
+<!ELEMENT videojuegos (videojuego+)>
+<!ELEMENT videojuego (titulo, compañia, distribuidora, genero+)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT compañia (#PCDATA)>
+<!ELEMENT distribuidora (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+
+
+<!ATTLIST titulo genero (aventura | deportes | estrategia | roll) >
+<!ATTLIST videojuego distribuidora (RockStar | PlayStation | Bandai Namco | UBISOFT | EA) "default">
