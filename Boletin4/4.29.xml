@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <serie xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:noNamespaceSchemaLocation="4.29.xsd">
+        <titulo>Narcos México</titulo>
+        <fechaEstreno>2021-01-02</fechaEstreno>
+        <temporadas>3</temporadas>
+        <genero>comedia</genero>
+    </serie>
