@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:simpleType name="tipoIn">
+    <xs:restriction base ="xs:string">
+        <xs:enumeration value="téctica"></xs:enumeration>
+        <xs:enumeration value="de facturación"></xs:enumeration>
+        <xs:enumeration value="de servicio"></xs:enumeration>
+    </xs:restriction>
+</xs:simpleType>
+    <xs:element name="incidente">
+        <xs:complexType>                                                   
+                       <xs:sequence>
+                            <xs:element name="cliente" type="xs:string" />
+                            <xs:element name="fecha" type="xs:date" />
+                            <xs:element name="hora" type="xs:time" />
+                            <xs:element name="lugar" type="xs:string" />
+                            <xs:element name="tipo" type="tipoIn"/>
+                        </xs:sequence>                                                                  
+                    </xs:complexType>                
+    </xs:element>
+</xs:schema>

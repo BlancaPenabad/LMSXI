@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <incidente xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:noNamespaceSchemaLocation="4.28.xsd">
+        <cliente>Blanca Penabad Villar</cliente>
+        <fecha>2023-01-12</fecha>
+        <hora>12:34:12</hora>
+        <lugar>Zara(Plaza de Galicia)</lugar>
+        <tipo>de facturación</tipo>
+    </incidente>
