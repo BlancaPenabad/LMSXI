@@ -1,31 +1,19 @@
-<?xml version="1.1" encoding="UTF-8"?>
-<!DOCTYPE pelicula[
-<!ELEMENT pelicula (infoPelicula, reparto)>
-<!ELEMENT infoPelicula (titulo, director, sinopsis, añoEstreno?)>
-<!ELEMENT reparto (actor+)>
-<!ELEMENT titulo (#PCDATA)>
-<!ELEMENT director (#PCDATA)>
-<!ELEMENT sinopsis (#PCDATA)>
-<!ELEMENT actor (#PCDATA)>
-<!ELEMENT añoEstreno (#PCDATA)>
-<!ATTLIST actor nombre CDATA #REQUIRED>
-
-]>
-<pelicula>
-    <infoPelicula>
-        <titulo>No es país para viejos</titulo>
-        <director>Joel Coen</director>
-        <sinopsis>Texas, 1980. Una operación de narcotráfico
-            ha terminado en un rio de sangre después de que 
-            compradores y vendedores no hayan sabido entenderse.
-        </sinopsis>
-        <añoEstreno>2007</añoEstreno>
-    </infoPelicula>
-    <reparto>
-        <actor nombre ="Javier Bardem">Protagonista</actor>
-        <actor nombre ="Tommy Lee Jones">Personaje secundario</actor>
-        <actor nombre ="Josh Brolin">Personaje secundario</actor>
-        <actor nombre ="Kelly Macdonald">Personaje secundario</actor>
-        <actor nombre ="Woody Harrelson">Personaje secundario</actor>
-    </reparto>
-</pelicula>
+<?xml version="1.0" encoding="UTF-8"?>
+<fichaPersonal>
+    <datosPersonales>
+        <nombre>Blanca Penabad Villar</nombre>
+        <fechaNacimiento>16/05/1999</fechaNacimiento>
+        <lugarNacimiento>Santiago de Compostela</lugarNacimiento>
+    </datosPersonales>
+    <estudios>
+        <ciclo>Desarrollo de aplicaciones web</ciclo>
+        <centro>IES San Clemente</centro>
+        <curso>1º</curso>
+        <año>2022/2023</año>
+    </estudios>
+    <aficciones>
+        <aficcion tipo="Moda"></aficcion>
+        <aficcion tipo="Maquillaje"></aficcion>
+        <aficcion tipo="Deporte"></aficcion>
+    </aficciones>
+</fichaPersonal>
