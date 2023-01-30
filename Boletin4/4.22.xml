@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <factura>
+        <datosCliente>
+            <numero>981981981</numero>
+            <fecha>25-01-2023</fecha>
+            <nombre>Blanca Penabad Villar</nombre>
+            <direccion>Rúa Xeneral Pardiñas</direccion>
+        </datosCliente>
+        <productos>
+                <producto cantidad="10" IVA="21%">
+                    <nombreP>Baldosas Porcelana</nombreP>
+                    <precioU>10</precioU>
+                    <subtotal>1000</subtotal>
+                    <total>1210</total>
+                </producto>
+                <producto cantidad="10" IVA="21%">
+                    <nombreP>Baldosas Mármol</nombreP>
+                    <precioU>20</precioU>
+                    <subtotal>2000</subtotal>
+                    <total>2420</total>
+                </producto>
+                <producto cantidad="10" IVA="21%">
+                    <nombreP>Baldosas Mármol Africano</nombreP>
+                    <precioU>30</precioU>
+                    <subtotal>3000</subtotal>
+                    <total>3630</total>
+                </producto>
+        </productos>
+    </factura>

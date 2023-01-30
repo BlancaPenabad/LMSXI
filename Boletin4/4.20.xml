@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedido SYSTEM "4.21.dtd">
+    <pedido>
+        <datosCliente>
+            <nombre>Blanca Penabad Villar</nombre>
+            <direccion>Rúa Xeneral Pardiñas</direccion>
+        </datosCliente>
+        <productos>
+                <producto cantidad="1">
+                    <nombreP>Japi Mil</nombreP>
+                    <precio>10</precio>
+                </producto>
+                <producto cantidad="2">
+                    <nombreP>Alitas hot</nombreP>
+                    <precio>6</precio>
+                </producto>
+                <producto cantidad="2">
+                    <nombreP>Sprite</nombreP>
+                    <precio>2</precio>
+                </producto>
+        </productos>
+    </pedido>

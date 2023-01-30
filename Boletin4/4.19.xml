@@ -1,0 +1,23 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE billete[
+<!ELEMENT billete (datosCliente, datosVuelo)>
+<!ELEMENT datosCliente (nombre)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT datosVuelo (aeropuertoOrigen, aeropuertoDestino, fecha, hora)>
+<!ELEMENT aeropuertoOrigen (#PCDATA)>
+<!ELEMENT aeropuertoDestino (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+]>
+
+<billete>
+    <datosCliente>
+        <nombre>Blanca Penabad Villar</nombre>
+    </datosCliente>
+    <datosVuelo>
+        <aeropuertoOrigen>Madrid Barajas</aeropuertoOrigen>
+        <aeropuertoDestino>Maldivas Airport</aeropuertoDestino>
+        <fecha>14/2/2023</fecha>
+        <hora>20/2/2023</hora>
+    </datosVuelo>
+</billete>
