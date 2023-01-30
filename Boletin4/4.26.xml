@@ -1,0 +1,8 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<libro
+xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+xs:noNamespaceSchemaLocation="4.27.xsd">
+        <titulo>La fiesta del chivo</titulo>
+        <autor>Mario Vargas Llosa</autor>
+        <genero>Novela</genero>
+</libro>
