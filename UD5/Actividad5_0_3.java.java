@@ -16,7 +16,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Text;
 
-public class Actividad5_0_4 {
+public class Actividad5_0_3 {
 	
 private static final String RUTA_SALIDA= "./src/";
 	
