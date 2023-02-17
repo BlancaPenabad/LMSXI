@@ -23,14 +23,14 @@ private static final String RUTA_SALIDA= "./src/";
 	public static void main(String[] args) {
 		
 		// Proceso de creación del objeto en memoria
-		Document document = crearDocumentLibro();
+		Document document = crearDocumentEstudiantes();
 		
 		// Almacenamiento en fichero de texto
 		guardarDocument(document);
 				
 	}
 	
-	 protected static Document crearDocumentLibro() {
+	 protected static Document crearDocumentEstudiantes() {
 		 
 		 // Se declara el tipo de objeto a devolver
 		 Document document = null;
