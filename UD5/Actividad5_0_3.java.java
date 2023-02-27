@@ -133,7 +133,7 @@ private static final String RUTA_SALIDA= "./src/";
 		 	//2. Se crea un objeto FileWriter para escribir en la ruta del fichero "output.xml"
 		 	FileWriter fileWriter;
 		
-			fileWriter = new FileWriter(RUTA_SALIDA + "estudiantes5_0_3.xml");
+			fileWriter = new FileWriter(RUTA_SALIDA + "output.xml");
 			
 		 	
 		 	/*3. Se crea un objeto de la clase StreamResult y se le pasa como 
