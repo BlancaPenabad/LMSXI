@@ -130,7 +130,7 @@ private static final String RUTA_SALIDA= "./src/";
 	 	
 		try {
 		
-		 	//2. Se crea un objeto FileWriter para escribir en la ruta del fichero "estudiantes5_0_3.xml"
+		 	//2. Se crea un objeto FileWriter para escribir en la ruta del fichero "output.xml"
 		 	FileWriter fileWriter;
 		
 			fileWriter = new FileWriter(RUTA_SALIDA + "estudiantes5_0_3.xml");
