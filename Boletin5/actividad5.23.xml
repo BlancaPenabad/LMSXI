@@ -1,0 +1,41 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<paises>
+    <pais>
+        <nombre>Panamá</nombre>
+        <continente>América</continente>
+        <capital>Ciudad de Panamá</capital>
+        <datos idioma="Español" habitantes="4381000" />
+       
+        
+    </pais>
+    <pais>
+        <nombre>Vietnam</nombre>
+        <continente>Asia</continente>
+        <capital>Hanói</capital>
+        <datos idioma="Vietnamita" habitantes="97470000" />
+    </pais>
+    <pais>
+        <nombre>Filipinas</nombre>
+        <continente>Asia</continente>
+        <capital>Manila</capital>
+        <datos idioma="Inglés" habitantes="113900000" />
+    </pais>
+    <pais>
+        <nombre>Portugal</nombre>
+        <continente>Europa</continente>
+        <capital>Lisboa</capital>
+        <datos idioma="Portugués" habitantes="10330000" />
+    </pais>
+    <pais>
+        <nombre>Egipto</nombre>
+        <continente>África</continente>
+        <capital>El Cairo</capital>
+        <datos idioma="Árabe" habitantes="109300000" />
+    </pais>     
+</paises>
+
+<!-- 
+    SCRIPT BASEX:
+    //pais/datos[@habitantes>10000000]/.. 
+
+-->

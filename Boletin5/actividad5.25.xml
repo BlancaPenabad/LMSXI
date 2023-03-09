@@ -1,0 +1,29 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<transportes>
+    <transporte>
+        <nombre>Carricoche</nombre>
+        <modelo tipo="Coche fantasía" velocidad="2000" />
+    </transporte>
+    <transporte>
+        <nombre>Duendeneta</nombre>
+        <modelo tipo="Furgoneta mágica" velocidad="3456" />
+    </transporte>
+    <transporte>
+        <nombre>Motoloca</nombre>
+        <modelo tipo="Moto voladora" velocidad="4567" />
+    </transporte>
+        <transporte>
+        <nombre>Gorrocóptero</nombre>
+        <modelo tipo="Gorro volador" velocidad="1500" />
+    </transporte>
+</transportes>
+
+<!-- 
+5.25 
+
+SCRIPT XQuery:
+
+for $a in doc("datos.xml")//modelo
+return $a
+
+-->

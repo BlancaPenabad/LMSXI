@@ -1,0 +1,40 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<grupos>
+    <grupo>
+        <nombreGrupo>AC/DC</nombreGrupo>
+        <genero>Rock</genero>
+        <origen>Sidney</origen>
+    </grupo>
+       <grupo>
+        <nombreGrupo>Ramones</nombreGrupo>
+        <genero>Punk</genero>
+        <origen>Nueva York</origen>
+    </grupo>
+       <grupo>
+        <nombreGrupo>Mecano</nombreGrupo>
+        <genero>Pop</genero>
+        <origen>Madrid</origen>
+    </grupo>
+       <grupo>
+        <nombreGrupo>Iron Maiden</nombreGrupo>
+        <genero>Heavy</genero>
+        <origen>Londres</origen>
+    </grupo>
+       <grupo>
+        <nombreGrupo>Metallica</nombreGrupo>
+        <genero>Rock</genero>
+        <origen>Los Angeles</origen>
+    </grupo>
+       <grupo>
+        <nombreGrupo>Aerosmith</nombreGrupo>
+        <genero>Rock</genero>
+        <origen>Boston</origen>
+    </grupo>
+</grupos>
+
+<!--
+    /
+SCRIPT BASEX
+//grupo[genero="Rock"]/nombreGrupo/string()
+
+ -->

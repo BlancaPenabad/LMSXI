@@ -1,0 +1,45 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<recetas>
+    <receta>
+        <nombreRec>Tortilla Francesa</nombreRec>
+        <dificultad>Fácil</dificultad>
+        <origen>Desconocido</origen>
+        <tiempo>10 minutos</tiempo>
+        <ingredientes>
+            <ingrediente ingred= "Huevos" />
+            <ingrediente ingred= "Sal" />
+            <ingrediente ingred= "Aceite de oliva virgen extra" />
+            </ingredientes>
+    </receta>
+    <receta>
+        <nombreRec>Pan Tumaca</nombreRec>
+        <dificultad>Fácil</dificultad>
+        <origen>Cataluña</origen>
+        <tiempo>10 minutos</tiempo>
+        <ingredientes>
+            <ingrediente ingred= "Rebanada de pan" />
+            <ingrediente ingred= "Tomate" />
+            <ingrediente ingred= "Aceite de oliva virgen extra" />
+            </ingredientes>
+    </receta>
+    <receta>
+        <nombreRec>Carne ao caldeiro</nombreRec>
+        <dificultad>Difícil</dificultad>
+        <origen>Galicia</origen>
+        <tiempo>1 hora</tiempo>
+        <ingredientes>
+            <ingrediente ingred= "Carne de ternera" />
+            <ingrediente ingred= "Patatas" />
+            <ingrediente ingred= "Aceite de oliva virgen extra" />
+            <ingrediente ingred= "Sal" />
+            <ingrediente ingred= "Pimentón dulce" />
+            </ingredientes>
+    </receta>
+</recetas>
+
+<!-- 
+    
+SCRIPT BASEX:
+//receta[dificultad="Fácil"]
+
+-->
