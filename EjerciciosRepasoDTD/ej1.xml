@@ -1,0 +1,25 @@
+<?xml version="1.1" encoding="utf-8"?>
+<!DOCTYPE agenda SYSTEM "ej1.dtd">
+<agenda>
+    <contacto>
+        <nombre orden="3">Rosa</nombre>
+        <apellidos>Díez</apellidos>
+        <direccion>Calle del olvido nº23</direccion>
+        <telefono>912339992</telefono>
+    </contacto>
+    <contacto>
+        <nombre orden="2">Artur</nombre>
+        <apellidos>Mas</apellidos>
+        <direccion>Plaza de la independencia nº5</direccion>
+        <telefono>934331333</telefono>
+        <telefono>654543432</telefono>
+    </contacto>
+    <contacto>
+        <nombre orden="1">Albert</nombre>
+        <apellidos>Rivera</apellidos>
+        <direccion>Casa de Malú</direccion>
+        <telefono>913345542</telefono>
+        <telefono>661223664</telefono>
+        <telefono>667773772</telefono>
+    </contacto>
+</agenda>
