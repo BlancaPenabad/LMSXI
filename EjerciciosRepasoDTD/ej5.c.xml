@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ciclo [
+ <!ELEMENT ciclo (asignatura+)>
+ <!ELEMENT asignatura  (#PCDATA)>
+
+ <!ATTLIST asignatura codigo CDATA #REQUIRED>
+]>
+
+<!--Lo que hice aquí fue lo mismo que en el ejercicio b y a parte, cerrar la etiqueta de <ciclo> la cual estaba sin cerrar-->
+
+<ciclo>
+ <asignatura codigo="CSIFC01">Administración de sistemas informáticos</asignatura>
+ <asignatura codigo="CSIFC02">Desenvolvemento de aplicaciones multiplataforma</asignatura>
+</ciclo>
