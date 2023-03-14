@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ciclo [
+ <!ELEMENT ciclo (asignatura+)>
+ <!ELEMENT asignatura (#PCDATA)>
+
+ <!ATTLIST asignatura codigo CDATA #REQUIRED>
+]>
+
+<!--Lo que hice aquí fue crear el elemento asignaturas y colocar el código como un atributo de dicho elemento-->
+
+<ciclo>
+ <asignatura codigo="CSIFC01">Administración de sistemas informáticos</asignatura>
+ <asignatura codigo="CSIFC02">Desenvolvemento de aplicaciones multiplataforma</asignatura>
+ <asignatura codigo="CSIFC03">Desenvolvemento de aplicaciones web</asignatura>
+</ciclo>
