@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cvXSL.xsl"?>
+<cv>
+    <nombre>Blanca Penabad Villar</nombre>
+    <residencia>Brión</residencia>
+    <contacto>
+        <cabecera>Datos de contacto: </cabecera>
+        <telefono>630-852-946</telefono>
+        <email>a22blancapv@iessanclemente.net</email>
+    </contacto>
+    <formación>
+        <cabecera>Formación Académica</cabecera>
+        <titulo nombre="Grado en Educación Primaria" centro="USC" fin="2020"/>
+    </formación>
+    <experiencia-profesional>
+        <cabecera>Experiencia profesional</cabecera>
+        <experiencia>
+            <puesto>Maestra de inglés</puesto>
+            <empresa>Colexio Peleteiro</empresa>
+            <inicio>2020</inicio>
+            <final>2022</final>
+        </experiencia>
+    </experiencia-profesional>
+</cv>
