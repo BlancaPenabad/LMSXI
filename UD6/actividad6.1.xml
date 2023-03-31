@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="actividad6.1.xsl"?>
+<vehiculo>
+    <marca>Ferrari</marca>
+    <web>https://www.ferrari.com/</web>
+    <modelo>F8 Spider</modelo>
+    <precio>262000</precio>
+</vehiculo>
