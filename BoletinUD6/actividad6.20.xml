@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="actividad6.20.xsl"?>
+<hotel>
+    <habitaciones>
+        <habitacion numero="100">
+            <capacidad>2</capacidad>
+            <camas>1</camas>
+            <aa>Sí</aa>
+        </habitacion>
+        <habitacion numero="101">
+            <capacidad>6</capacidad>
+            <camas>3</camas>
+            <aa>Sí</aa>
+        </habitacion>
+        <habitacion numero="102">
+            <capacidad>5</capacidad>
+            <camas>4</camas>
+            <aa>No</aa>
+        </habitacion>
+    </habitaciones>
+</hotel>
