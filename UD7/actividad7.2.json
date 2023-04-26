@@ -1,0 +1,25 @@
+{
+    "nombrePintor":"El Bosco",
+    "fechaNac":1450,
+    "lugarNac":"Bolduque, Países Bajos",
+    "fechaDefuncion":1516, 
+    "lugarDefuncion":"Países Bajos",
+    "obras":[
+        {
+            "titulo":"Visiones del Más Allá",
+            "anyo":1504,
+            "URL":"https://www.nuevarevista.net/wp-content/uploads/2016/07/EL-BOSCO-VISIONES-DEL-MAS-ALLA.jpg"
+        },
+        {
+            "titulo":"La muerte de un avaro",
+            "anyo":1516,
+            "URL":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jheronimus_Bosch_050.jpg/250px-Jheronimus_Bosch_050.jpg"
+        },
+        {
+            "titulo":"El carro de heno",
+            "anyo":1516,
+            "URL":"https://content3.cdnprado.net/imagenes/Documentos/imgsem/ec/ec86/ec86ff9a-0c9a-4bfa-8f23-9a7241ca06b2/661701c6-51d1-484c-af39-ca83bd5c8104.jpg"
+        }
+   
+    ]
+}
