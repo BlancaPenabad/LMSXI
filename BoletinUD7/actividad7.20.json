@@ -1,0 +1,33 @@
+
+{
+    "emisor" : "a22blancapv@iessanclemente.com",
+    "receptor":"a22iriapg@iessanclemente.com",
+    "fecha":"01/05/2023",
+    "concepto":"Trabajos",
+    "serviciosRealizados":[
+        {
+            "servicio":"Revisión general",
+            "precio":20
+            
+        },
+        {
+            "servicio":"Cambio de aceite",
+            "precio":200
+        },
+        {
+            "servicio":"Mano de obra",
+            "precio":50
+        }
+   
+    ],
+    "impuestos":[
+        {
+            "IVA":21
+
+        },
+        {
+            "impuestoTaller":15
+        }
+    ],
+    "totalAPagar":367.2
+} 
