@@ -1,0 +1,22 @@
+{
+    "nombreDirector":"Joel Coen",
+    "titulo":"No es país para viejos",
+    "anyo": 2007,
+    "sinopsis":"En 1980, en la frontera de Texas,  un cazador de antílopes, descubre a unos hombres acribillados a balazos, un cargamento de heroína y dos millones de dólares en efectivo.", 
+    "reparto":[
+        {
+            "actor":"Javier Bardem",
+            "papel":"principal"
+        },
+        {
+            "actor":"Tommy Lee Jones",
+            "papel":"principal"
+        },
+        {
+            "actor":"Kelly MacDonald",
+            "papel":"secundario"
+        }
+   
+    ]
+   
+}
