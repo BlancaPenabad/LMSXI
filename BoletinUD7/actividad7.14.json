@@ -1,0 +1,37 @@
+{
+    "nombre":"Fulanito de Tal",
+    "fechaNac":1999,
+    "lugarNac":"Santiago de Compostela",
+    "telefono":98177889, 
+    "estudios":[
+        {
+            "estudio":"Grado en Publicidad",
+            "anyo":2018,
+            "centro":"Universidad de Vigo (UVigo)"
+        },
+        {
+            "estudio":"Bachillerato",
+            "anyo":2016,
+            "centro":"Colegio Plurilingüe Manuel Peleteiro"
+        },
+        {
+            "estudio":"ESO",
+            "anyo":2012,
+            "centro":"Colegio Plurilingüe Manuel Peleteiro"
+        }
+   
+    ],
+    "experienciaLaboral":[
+        {
+            "puesto":"Community Manager",
+            "anyo":2023
+        },
+        {
+            "puesto":"Camarero",
+            "anyo":2018
+          }
+     ]
+        
+}
+   
+    

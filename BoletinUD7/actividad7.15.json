@@ -1,0 +1,54 @@
+{
+    "novelas":[
+        {
+            "titulo":"Cien años de soledad",
+            "anyo":1967,
+            "autor":"Gbriel García Márquez"
+        },
+        {
+           
+            "titulo":"Lo que el viento se llevó",
+            "anyo":1936,
+            "autor":"Margaret Mitchell"
+        },
+        {
+            "titulo":"Matar a un ruiseñor",
+            "anyo":1960,
+            "autor":"Harper Lee"
+        }
+   
+    ],
+    "infantiles":[
+        {
+            "titulo":"El Principito",
+            "anyo":1943,
+            "autor":"Antoine De Saint-Exupéry"
+        },
+        {
+            "titulo":"La aventuras de Alicia en el país de las maravillas",
+            "anyo":1865,
+            "autor":"Lewis Carroll"
+        },
+        {
+            "titulo":"Pinocho",
+            "anyo":1883,
+            "autor":"Carlo Collodi"
+        }
+   
+    ],
+    "autoayuda":[
+        {
+            "titulo":"Encuentra tu persona vitamina",
+            "anyo":2021,
+            "autor":"Marian Rojas Estapé"
+        },
+        {
+            "titulo":"Padre rico, padre pobre",
+            "anyo":1997,
+            "autor":"Robert Kiyosaki"
+          }
+     ]
+        
+}
+   
+    
