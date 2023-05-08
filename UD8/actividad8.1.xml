@@ -1,0 +1,23 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Pizzas La Serrana</title>
+        <link>www.pizzerialaserrana.it</link>
+        <description>Pizzería tradicional italiana. </description>
+        <item>
+            <title>Pizza Quattro Formaggi</title>
+            <link>www.pizzerialaserrana.it/pizzas</link>
+            <description>Pizza cuatro quesos (provolone, parmigiano reggiano, mozzarella y gorgonzola)</description>
+        </item>
+         <item>
+            <title>Pizza Margherita</title>
+            <link>www.pizzerialaserrana.it/pizzas</link>
+            <description>Pizza con mozzarella, tomate, aceite y albahaca</description>
+        </item>
+         <item>
+            <title>Pizza Diavola</title>
+            <link>www.pizzerialaserrana.it/pizzas</link>
+            <description>Pizza de salami picante</description>
+        </item>
+    </channel>
+</rss>
