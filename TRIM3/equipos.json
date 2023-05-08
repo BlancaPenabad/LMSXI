@@ -1,0 +1,180 @@
+[ 
+   
+    {
+        "nombre":"Real Madrid",
+        "entrenador":[
+            {
+                "dni":"12234567P",
+                "nombre":"Carlo",
+                "apellidos":"Ancelotti",
+                "anyo_nac":1959,
+                "telefono":999888777,
+                "direccion":[
+                    {
+                        "calle":"Avenida Concha Espina, 1",
+                        "cp":28036
+
+                    }
+                ]
+            }
+        ],
+        
+        "jugadores":[
+            {
+                "dni":"12345678L",
+                "nombre":"Thibaut",
+                "apellidos":"Courtois",
+                "anyo_nac":"1992",
+                "telefono":981782354,
+                "direccion":[
+                    {
+                        "calle":"Avenida Concha Espina, 1",
+                        "cp":28036
+
+                    }
+                ]
+            },
+            {
+                "dni":"12345678W",
+                "nombre":"Eduardo",
+                "apellidos":"Camavinga",
+                "anyo_nac":2002,
+                "telefono":981782355,
+                "direccion":[
+                    {
+                        "calle":"Avenida Concha Espina, 1",
+                        "cp":28036
+
+                    }
+                ]
+            },
+            {
+                "dni":"12345678R",
+                "nombre":"Federico Santiago",
+                "apellidos":"Valverde",
+                "anyo_nac":"1998",
+                "telefono":980082355,
+                "direccion":[
+                    {
+                        "calle":"Avenida Concha Espina, 1",
+                        "cp":28036
+
+                    }
+                ]
+            },
+            {
+                "dni":"12345678Q",
+                "nombre":"Eden",
+                "apellidos":"Hazard",
+                "anyo_nac":1991,
+                "telefono":980082332,
+                "direccion":[
+                    {
+                        "calle":"Avenida Concha Espina, 1",
+                        "cp":28036
+
+                    }
+                ]
+            },
+            {
+                "dni":"12345678K",
+                "nombre":"Karim",
+                "apellidos":"Benzema",
+                "anyo_nac":1987,
+                "telefono":988089932,
+                "direccion":[
+                    {
+                        "calle":"Avenida Concha Espina, 1",
+                        "cp":28036
+
+                    }
+                ]
+            }
+        ],
+        "lugar":"Madrid"
+    },
+
+    {
+        "nombre":"Futbol Club Barcelona",
+        "entrenador":[
+            {
+                "dni":"12234567P",
+                "nombre":"Xavi",
+                "apellidos":"Hernández",
+                "anyo_nac":1968,
+                "telefono":999888666,
+                "direccion":[
+                    {
+                        "calle":"Aristides Maillol, 12",
+                        "cp":88024
+
+                    }
+                ]
+            }
+        ],
+        
+        "jugadores":[
+            {
+                "dni":"35592554R",
+                "nombre":"Iñaki",
+                "apellidos":"Peña",
+                "anyo_nac":1999,
+                "telefono":982345768,
+                "direccion":[
+                    {
+                        "calle":"Aristides Maillol, 12",
+                        "cp":88024
+
+                    }
+                ]
+            },
+            {
+                "dni":"35522554M",
+                "nombre":"Jordi",
+                "apellidos":"Alba",
+                "anyo_nac":1989,
+                "telefono":982345712,
+                "direccion":[
+                    {
+                        "calle":"Aristides Maillol, 12",
+                        "cp":88024
+
+                    }
+                ]
+            },
+            {
+                "dni":"39892554A",
+                "nombre":"Chaadi",
+                "apellidos":"Riad",
+                "anyo_nac":2003,
+                "telefono":982345769,
+                "direccion":[
+                    {
+                        "calle":"Aristides Maillol, 12",
+                        "cp":88024
+
+                    }
+                ]
+            },
+            {
+                "dni":"35551554E",
+                "nombre":"Ansu",
+                "apellidos":"Fati",
+                "anyo_nac":2002,
+                "telefono":982312368,
+                "direccion":[
+                    {
+                        "calle":"Aristides Maillol, 12",
+                        "cp":88024
+
+                    }
+                ]
+            }
+            
+        ],
+        "lugar":"Barcelona"
+      }
+    ]
+     
+        
+ 
