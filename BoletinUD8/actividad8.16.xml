@@ -1,0 +1,53 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>1º Desarrollo de Aplicaciones Web Modular Presencial</title>
+    <link>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</link>
+    <id>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</id>
+    <updated>2023-05-10</updated>
+    <author>
+        <name>Blanca Penabad Vilar</name>
+    </author>
+    <entry>
+        <title>Bases de datos</title>
+        <link>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</link>
+        <id>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</id>
+        <updated>2023-05-10</updated>
+        <summary>Módulo obligatorio de 187 horas</summary>
+    </entry>
+       <entry>
+        <title>Contornos de desenvolvemento</title>
+        <link>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</link>
+        <id>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</id>
+        <updated>2023-05-10</updated>
+        <summary>Módulo obligatorio de 107 horas</summary>
+    </entry>
+     <entry>
+        <title>Formación e orientación laboral</title>
+        <link>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</link>
+        <id>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</id>
+        <updated>2023-05-10</updated>
+        <summary>Módulo obligatorio de 107 horas</summary>
+    </entry>
+     <entry>
+        <title>Lenguajes de marcas y sistemas de gestión de la información</title>
+        <link>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</link>
+        <id>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</id>
+        <updated>2023-05-10</updated>
+        <summary>Módulo obligatorio de 133 horas</summary>
+    </entry>
+     <entry>
+        <title>Programación</title>
+        <link>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</link>
+        <id>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</id>
+        <updated>2023-05-10</updated>
+        <summary>Módulo obligatorio de 240 horas</summary>
+    </entry>
+     <entry>
+        <title>Sistemas informáticos</title>
+        <link>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</link>
+        <id>https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-de-desenvolvemento-de-aplicacions-web-oferta-ordinaria/</id>
+        <updated>2023-05-10</updated>
+        <summary>Módulo obligatorio de 186 horas</summary>
+    </entry>
+    
+</feed>
